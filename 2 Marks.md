@@ -29,3 +29,9 @@ d) MiTM attack
 - Cipher Feedback Mode (CFB)
 - Output Feedback Mode
 - Counter Mode
+
+### 5. In modular arithmetic : (a/b) = a(b^-1)
+- **True**
+- False
+
+Justification : Based on one of the properties of modular arithmetic (a/b) = a(b^-1) is true. 
